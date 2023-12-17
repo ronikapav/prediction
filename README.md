@@ -1,6 +1,6 @@
 <h1 align="center">Предсказание на сегодня</h1>
 <div align="center">
-<a href="https://app-to-do-list-app.netlify.app/" target="_blank"><img align="center" src="https://i.ibb.co/7Gbr1Kh/2023-12-18-000116.png" height="500"/></a>
+<a href="https://appprediction.netlify.app/" target="_blank"><img align="center" src="https://i.ibb.co/7Gbr1Kh/2023-12-18-000116.png" height="500"/></a>
 </div>
 <h3 align="center">Это приложение позволяет пользователю получить предсказание на сегодня в виде мотивирующей цитаты.</h3>
 <h2>Установка</h2>
